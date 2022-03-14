@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-html{
+
+html {
     scroll-behavior: smooth;
 }
-.landing{
+
+.landing {
     background-image: url('../assets/backgrounds/h_img.jpg');
     background-position: center center;
     background-size: cover;
@@ -13,10 +15,19 @@ html{
     font-family: 'Lato', sans-serif;
     padding-bottom: 10%;
 }
-.landing h1{
+
+.landing h1 {
     padding: 2px;
     margin: 5px;
 }
-.landing p{
+
+.landing p {
     padding: 2px;
+}
+
+#logo {
+    margin-top: 12px;
+    margin-bottom: 24px;
+    width: 70px;
+    height: 70px;
 }
