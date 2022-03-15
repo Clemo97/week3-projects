@@ -12,7 +12,7 @@ This project is a web application for Delani studio that shows details about the
 ![alt text](delanihome.png)
 
 ## Live Page 
-https://Owiti-charles.github.io/Delani-Studio 
+https://clemo97.github.io/week3-projects/
 
 
 ## Installation / Setup instruction
